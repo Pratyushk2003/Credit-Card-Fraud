@@ -3,11 +3,11 @@ Credit Card Fraud Detection is an important application of machine learning, whi
 
 Algorithm used:
 
-Logistic Regression
+1. Logistic Regression
 
-SVM
+2. SVM
 
-Random Forest
+3. Random Forest
 
 RESULT: 
 
